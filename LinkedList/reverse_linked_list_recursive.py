@@ -1,0 +1,1 @@
+# recursive linked list is tricky please follow the below link : https://takeuforward.org/data-structure/reverse-a-linked-list/
