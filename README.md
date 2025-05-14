@@ -4,7 +4,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 ## Preparation strategy and material
 
-### [Sliding window] (https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
+### [Sliding window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
 #### variable length
 #### fixed length
 
@@ -72,7 +72,7 @@ Contributions are welcome! Please follow these guidelines:
 - Update this README when adding new categories
 
 ## Resources
-- [Greg Hog] (https://www.youtube.com/watch?v=fvyqbtmor9U&list=PLKYEe2WisBTH48RzVCL_LQrGW-ahPY44S&index=7&ab_channel=GregHogg)
+- [GregHog](https://www.youtube.com/watch?v=fvyqbtmor9U&list=PLKYEe2WisBTH48RzVCL_LQrGW-ahPY44S&index=7&ab_channel=GregHogg/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
 - [Codeforces](https://codeforces.com/)
