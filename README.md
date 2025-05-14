@@ -4,8 +4,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 ## Preparation strategy and material
 
-### Sliding window
-
+### [Sliding window] (https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
 #### variable length
 #### fixed length
 
