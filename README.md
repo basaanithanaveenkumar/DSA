@@ -2,6 +2,31 @@
 
 This repository contains my solutions to various Data Structures and Algorithms (DSA) problems, organized by topic. Each folder contains implementations and problem solutions related to specific DSA concepts.
 
+## Preparation strategy and material
+
+### Sliding window
+
+#### variable length
+#### fixed length
+
+### Tree
+#### Depth first search
+#### Breadth first search bothe iterative and recursive
+
+### Linked list
+#### Reverse a linked list
+
+#### Two pointers
+
+#### Prefix sum
+
+#### Heapsort
+
+
+
+
+
+
 ## Folder Structure
 
 ### 📁 [LinkedList](/LinkedList/)
