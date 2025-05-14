@@ -2,24 +2,40 @@
 
 This repository contains my solutions to various Data Structures and Algorithms (DSA) problems, organized by topic. Each folder contains implementations and problem solutions related to specific DSA concepts.
 
-## Preparation strategy and material
+# Preparation strategy and material
 
-### [Sliding window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
-#### variable length
-#### fixed length
+## Binary search
+### condition based Binary search
+### Binary search tree
 
-### Tree
-#### Depth first search
-#### Breadth first search bothe iterative and recursive
 
-### Linked list
-#### Reverse a linked list
+## [Sliding window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
+### variable length
+### fixed length
 
-#### Two pointers
+## Tree
+### Depth first search
+#### Iterative
+#### Recursive
+### Breadth first search
+#### Iterative
+#### Recursive
 
-#### Prefix sum
+## Linked list
+### Reverse a linked list
+
+### Two pointers
+
+### Prefix sum
 
 #### Heapsort
+
+
+## stack
+
+## queue
+
+## sorting 
 
 
 
