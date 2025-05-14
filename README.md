@@ -4,9 +4,34 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 # Preparation strategy and material
 
-## Binary search
+## python
+### check the methods of each python data structure
+1.List
+2.dict
+3.[set](https://www.w3schools.com/Python/python_ref_set.asp)
+4.tupple
+5.dqueue
+6.heapq
+
+
+## [Binary search](https://www.youtube.com/watch?v=9nmrkG6QtpQ&list=WL&index=2&ab_channel=GregHogg)
 ### condition based Binary search
 ### Binary search tree
+
+
+## Dynamic Programming
+### Memorisation
+### Tabulation
+### 0/1 kanpsack
+### Longest common sub sequence
+
+
+
+
+## Greedy 
+### Fractional  knapsack
+
+
 
 
 ## [Sliding window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
@@ -25,6 +50,11 @@ This repository contains my solutions to various Data Structures and Algorithms 
 ### Reverse a linked list
 
 ### Two pointers
+
+
+
+
+
 
 ### Prefix sum
 
