@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various Data Structures and Algorithms (DSA) problems, organized by topic. Each folder contains implementations and problem solutions related to specific DSA concepts.
 
-# Preparation strategy and material
+# Preparation strategy and material (resources)
 
 ## python
 ### check the methods of each python data structure
@@ -13,11 +13,13 @@ This repository contains my solutions to various Data Structures and Algorithms 
 5.dqueue
 6.heapq
 
+# Roadmaps to follow
+--- interview bit company wise
+-- neatcode io roadmap
 
-## [Binary search](https://www.youtube.com/watch?v=9nmrkG6QtpQ&list=WL&index=2&ab_channel=GregHogg)
-### condition based Binary search
-### Binary search tree
+# How to understand and to measure the time and space complexity of algorithms
 
+# Important topics 
 
 ## Dynamic Programming
 ### Memorisation
@@ -28,44 +30,101 @@ This repository contains my solutions to various Data Structures and Algorithms 
 
 
 
-## Greedy 
-### Fractional  knapsack
+## [Binary search](https://www.youtube.com/watch?v=9nmrkG6QtpQ&list=WL&index=2&ab_channel=GregHogg)
+### condition based Binary search
+### Binary search tree
 
 
+## Tree
+### Depth first search
+#### Iterative
+#### Recursive 
+#### Pre order traversal (root,left,right)
+##### Iterative 
+##### recursive
+#### post order traversal
+##### Iterative 
+##### recursive
+#### inorder traversal(left,root,right)
+##### Iterative 
+##### recursive
+### Breadth first search (its a level order traversal)
+#### Iterative
+#### Recursive
+#### Tree skewness in Binary tree and how to solve it
 
+
+# Graphs
+## Multisource BFS
+
+## Linked list
+### Reverse a linked list
+#### Inplace reversal patter (to reverse a linked list)
+
+## Prefix sum
+## Two pointers (start LP at begining , RP at the end of array_index)
 
 ## [Sliding window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
 ### variable length
 ### fixed length
 
-## Tree
-### Depth first search
-#### Iterative
-#### Recursive
-### Breadth first search
-#### Iterative
-#### Recursive
+## Heapsort & priority queue
+### TOP K elements pattern
+### minheap
+### maxheap
+#### (negation of values, convert the positive integer to negative integer and negative integer to positive integer)
 
-## Linked list
-### Reverse a linked list
-
-### Two pointers
+## Fast and slow pointers
 
 
+## Greedy 
+### Fractional  knapsack
+
+# Shortest path algorithm
+## dijkstra algorithm
+## Bellman Ford
+
+# Recursion
+# Backtracking
 
 
 
 
-### Prefix sum
+## Stack
+### Monotonic stack
+### stack data structure using Linked list (dynamic size and push and pop operations O(1))
 
-#### Heapsort
+## Queue
 
+## Bit manipulation (if you are targeting silicon companies)
 
-## stack
+# union find in graphs
 
-## queue
+# sparcely asked topics
+
+-- tries
+-- topological sort (algorithm)
+## Divide and concoure pattern
+-- Q select algorithm
+-- search n/n sorted matrix
+-- Binary tree skewness for large dataset
+   -- AVL tree
+    Black forest tree 
 
 ## sorting 
+### time complexity of each sorting algorithm (most asked question)
+
+
+## overlappting intervals pattern
+
+
+
+
+
+
+
+
+
 
 
 
