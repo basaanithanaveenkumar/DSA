@@ -2,120 +2,179 @@
 
 This repository contains my solutions to various Data Structures and Algorithms (DSA) problems, organized by topic. Each folder contains implementations and problem solutions related to specific DSA concepts.
 
-# Preparation strategy and material (resources)
-
-## python
-### check the methods of each python data structure
-1.List
-2.dict
-3.[set](https://www.w3schools.com/Python/python_ref_set.asp)
-4.tupple
-5.dqueue
-6.heapq
-
-# Roadmaps to follow
---- interview bit company wise
--- neatcode io roadmap
-
-# How to understand and to measure the time and space complexity of algorithms
-
-# Important topics 
-
-## Dynamic Programming
-### Memorisation
-### Tabulation
-### 0/1 kanpsack
-### Longest common sub sequence
 
 
+# 🚀 Interview Preparation Guide 🚀
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+A structured roadmap to master coding interview topics, algorithms, and data structures.
+
+---
+
+## 📚 Table of Contents
+- [Python Data Structures](#-python-data-structures)
+- [Roadmaps](#-roadmaps)
+- [Time & Space Complexity](#-time--space-complexity)
+- [Core Topics](#-core-topics)
+- [Algorithms & Techniques](#-algorithms--techniques)
+- [Sparsely Asked Topics](#-sparsely-asked-topics)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 🐍 Python Data Structures
+
+| Data Structure | Key Methods & Resources |
+|----------------|-------------------------|
+| **List**       | `append()`, `insert()`, `pop()`, slicing |
+| **Dict**       | `get()`, `items()`, `keys()`, `update()` |
+| **[Set](https://www.w3schools.com/Python/python_ref_set.asp)** | `add()`, `union()`, `intersection()`, `difference()` |
+| **Tuple**      | Immutable, `count()`, `index()` |
+| **Deque**      | `popleft()`, `appendleft()` (from `collections`) |
+| **Heapq**      | `heappush()`, `heappop()`, `heapify()` |
 
 
-## [Binary search](https://www.youtube.com/watch?v=9nmrkG6QtpQ&list=WL&index=2&ab_channel=GregHogg)
-### condition based Binary search
-### Binary search tree
+# [Methods of python (Ex: set)](https://www.w3schools.com/Python/python_ref_set.asp)
 
+---
 
-## Tree
-### Depth first search
-#### Iterative
-#### Recursive 
-#### Pre order traversal (root,left,right)
-##### Iterative 
-##### recursive
-#### post order traversal
-##### Iterative 
-##### recursive
-#### inorder traversal(left,root,right)
-##### Iterative 
-##### recursive
-### Breadth first search (its a level order traversal)
-#### Iterative
-#### Recursive
-#### Tree skewness in Binary tree and how to solve it
+## 🗺️ Roadmaps
+- **[InterviewBit Company-Wise](https://www.interviewbit.com)**: Practice company-specific questions.
+- **[Neetcode.io](https://neetcode.io/roadmap)**: Structured problem-solving roadmap.
 
+---
 
-# Graphs
-## Multisource BFS
+## ⏳ Time & Space Complexity
+- **Big O Notation**: Analyze worst-case complexity for algorithms.
+- **Tips**: Focus on nested loops (O(n²)), recursion (O(2ⁿ))
+- **Time complexity**: Analyze worst-case Time complexity for algorithms.
+- **Space complexity**: Analyze worst-case space complexity for algorithms.
 
-## Linked list
-### Reverse a linked list
-#### Inplace reversal patter (to reverse a linked list)
+---
 
-## Prefix sum
-## Two pointers (start LP at begining , RP at the end of array_index)
+## 🎯 Core Topics
 
-## [Sliding window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
-### variable length
-### fixed length
+### � Dynamic Programming
+- **Memoization**: Cache results to avoid recomputation.
+- **Tabulation**: Build solutions iteratively using tables.
+- **0/1 Knapsack**: Maximize value with weight constraints.
+- **Longest Common Subsequence**: Find sequences in strings/arrays.
 
-## Heapsort & priority queue
-### TOP K elements pattern
-### minheap
-### maxheap
-#### (negation of values, convert the positive integer to negative integer and negative integer to positive integer)
+### 🔍 [Binary Search](https://www.youtube.com/watch?v=9nmrkG6QtpQ&list=WL&index=2&ab_channel=GregHogg)
+- **Traditional Binarysearch**
+- **Condition-Based**: Split search space using custom conditions.
+- **Binary Search Tree**: Validate, insert, delete nodes (O(log n)).
 
-## Fast and slow pointers
+### 🌳 Tree
+- **DFS** (Pre/In/Post Order): 
+  - Iterative & Recursive implementations.
+- **BFS** (Level Order): 
+  - Use queues for traversal.
+  - Handle skewed trees (AVL/Red-Black Trees for balancing).
 
+### 🕸️ Graphs
+- **Multi-Source BFS**: Solve problems with multiple starting points.
+- **Shortest Path**: Dijkstra (no negative weights), Bellman-Ford (negative weights).
 
-## Greedy 
-### Fractional  knapsack
+### Stack (FIFO)
+- **Monotonic stack**
+- **linked list stack**: stack data structure using Linked list (dynamic size and push and pop operations O(1))
 
-# Shortest path algorithm
-## dijkstra algorithm
-## Bellman Ford
-
-# Recursion
-# Backtracking
-
+### Queue (LIFO)
+- **BFS of trees and graph**
 
 
 
-## Stack
-### Monotonic stack
-### stack data structure using Linked list (dynamic size and push and pop operations O(1))
+### 🔗 Linked List
+- **Reverse In-Place**: Use iterative pointers or recursion.
+- **Inplace reversal of linkedlist**
 
-## Queue
+### 📊 [Sliding Window](https://www.youtube.com/watch?v=GaXwHThEgGk&list=WL&index=1&ab_channel=GregHogg)
+- **Fixed/ Variable Length**: Optimize subarray/substring problems.
 
-## Bit manipulation (if you are targeting silicon companies)
+### 🏗️ Heaps & Priority Queues
+- **Top K Elements**: Use min-heap (keep smallest K) or max-heap (negation of values, convert the positive integer to negative integer and negative integer to positive integer).
 
-# union find in graphs
+---
 
-# sparcely asked topics
+## ⚙️ Algorithms & Techniques
+- **Two Pointers**: start LP at begining , RP at the end of array_index
+- **Fast and slow Pointers**
+- **Greedy**: Fractional knapsack, activity selection.
+- **Recursion & Backtracking**: Permutations, subsets, N-Queens.
+- **Prefix Sum**: Subarray sum problems.
+- **Monotonic Stack**: Next greater element, Next smaller element histogram area.
+- **shortest path**: dijkstra algorithm, Bellman Ford, Floyd warshall
+- **Recursion**: 
+- **Backtracking**:
 
--- tries
--- topological sort (algorithm)
-## Divide and concoure pattern
--- Q select algorithm
--- search n/n sorted matrix
--- Binary tree skewness for large dataset
-   -- AVL tree
-    Black forest tree 
+---
 
-## sorting 
-### time complexity of each sorting algorithm (most asked question)
+## 🌌 Sparsely Asked Topics
+- **Tries**: Prefix-based string operations.
+- **Topological Sort**: Dependency resolution (DAGs).
+- **Divide & Conquer**: Merge/Quick sort
+- **Bit Manipulation**: XOR tricks, (silicon companies ask these pattern)
+- **Union-Find**: Detect cycles, connected components.
+
+## union find in graphs
+---
+
+## 🤝 Contributing
+Feel free to submit PRs for corrections, additional resources, or examples!
+
+---
+
+## 📜 License
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 
-## overlappting intervals pattern
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
