@@ -241,5 +241,6 @@ Contributions are welcome! Please follow these guidelines:
 - [LeetCode](https://leetcode.com/)
 - [Codeforces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)
+- [small set of questions to practice](https://www.linkedin.com/feed/update/urn:li:activity:7328667967079034880/)
 
 Happy coding! 🚀
