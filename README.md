@@ -79,8 +79,8 @@ A structured roadmap to master coding interview topics, algorithms, and data str
 - **Multi-Source BFS**: Solve problems with multiple starting points.
 - **Shortest Path**: Dijkstra (no negative weights), Bellman-Ford (negative weights).
 
-### Stack (FIFO)
-- **Monotonic stack**
+### [Stack (FIFO)](https://www.geeksforgeeks.org/monotonic-stack-in-python/)
+- [**Monotonic stack**](https://www.youtube.com/watch?v=e7XQLtOQM3I&ab_channel=takeUforward)
 - **linked list stack**: stack data structure using Linked list (dynamic size and push and pop operations O(1))
 
 ### Queue (LIFO)
