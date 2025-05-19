@@ -102,14 +102,13 @@ A structured roadmap to master coding interview topics, algorithms, and data str
 
 ## ⚙️ Algorithms & Techniques
 - **Two Pointers**: start LP at begining , RP at the end of array_index
+- [**Kadanes algorithm**](https://www.youtube.com/watch?v=hLPkqd60-28&ab_channel=GregHogg)
 - **Fast and slow Pointers**
 - **Greedy**: Fractional knapsack, activity selection.
-- **Recursion & Backtracking**: Permutations, subsets, N-Queens.
+- [**Recursion & Backtracking**](https://www.youtube.com/watch?v=L0NxT2i-LOY&t=196s&ab_channel=GregHogg): Permutations, subsets, N-Queens.
 - **Prefix Sum**: Subarray sum problems.
 - **Monotonic Stack**: Next greater element, Next smaller element histogram area.
 - **shortest path**: dijkstra algorithm, Bellman Ford, Floyd warshall
-- **Recursion**: 
-- **Backtracking**:
 
 ---
 
@@ -119,6 +118,7 @@ A structured roadmap to master coding interview topics, algorithms, and data str
 - **Divide & Conquer**: Merge/Quick sort
 - **Bit Manipulation**: XOR tricks, (silicon companies ask these pattern)
 - **Union-Find**: Detect cycles, connected components.
+- **Permuatation** : [video](https://www.youtube.com/watch?v=gDGw0cvFXPQ&ab_channel=KunalKushwaha) places of elements can be interchanged. [geeksforgeeks read](https://www.geeksforgeeks.org/permutations-and-combinations/#permutation)
 
 ## union find in graphs
 ---
@@ -236,11 +236,14 @@ Contributions are welcome! Please follow these guidelines:
 - Update this README when adding new categories
 
 ## Resources
+### I would like to give the complete credit to the resources I have followed
+- [takeuforward](https://takeuforward.org/plus?source=youtube)
 - [GregHog](https://www.youtube.com/watch?v=fvyqbtmor9U&list=PLKYEe2WisBTH48RzVCL_LQrGW-ahPY44S&index=7&ab_channel=GregHogg/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [LeetCode](https://leetcode.com/)
 - [Codeforces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)
 - [small set of questions to practice](https://www.linkedin.com/feed/update/urn:li:activity:7328667967079034880/)
+-[small-set-2 from linked in](https://www.linkedin.com/posts/madhanvadlamudi_leetcode-dsa-problemsolving-activity-7329540054727458817-FWRC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQXQ4QBqLfzuvb2q_NwRd8JuUkBVTumfIk)
 
 Happy coding! 🚀
