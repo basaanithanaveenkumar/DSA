@@ -244,6 +244,6 @@ Contributions are welcome! Please follow these guidelines:
 - [Codeforces](https://codeforces.com/)
 - [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-algorithms)
 - [small set of questions to practice](https://www.linkedin.com/feed/update/urn:li:activity:7328667967079034880/)
--[small-set-2 from linked in](https://www.linkedin.com/posts/madhanvadlamudi_leetcode-dsa-problemsolving-activity-7329540054727458817-FWRC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQXQ4QBqLfzuvb2q_NwRd8JuUkBVTumfIk)
+- [small-set-2 from linked in](https://www.linkedin.com/posts/madhanvadlamudi_leetcode-dsa-problemsolving-activity-7329540054727458817-FWRC?utm_source=share&utm_medium=member_desktop&rcm=ACoAACQXQ4QBqLfzuvb2q_NwRd8JuUkBVTumfIk)
 
 Happy coding! 🚀
