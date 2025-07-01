@@ -4,8 +4,15 @@ sliding window: https://www.youtube.com/watch?v=GaXwHThEgGk&t=438s&ab_channel=Gr
 1. work@tech most asked questions -- based on accuracy
 2. Greg hog @ most asked questions company wise
 3. neetcode @ most asked question company wise
-4.faraz most asked question company wise
-5. Leet code most asked question comapny wise
+4. faraz most asked question company wise
+5. https://www.geeksforgeeks.org/explore?page=2&company=Google&sortBy=accuracy
+6. https://github.com/liquidslr/leetcode-company-wise-problems/blob/main/Google/5.%20All.csv
+7. https://interviewkickstart.com/blogs/interview-questions/data-structure-algorithm-interview-questions-at-google 
+
+8. https://github.com/krishnadey30/LeetCode-Questions-CompanyWise
+https://github.com/jobream/Leetcode-Company-Wise-Problems/blob/master/Google%20-%20LeetCode.pdf
+
+
 
 pattersn: 
 1. sort and look for solution
@@ -221,3 +228,10 @@ https://www.linkedin.com/posts/sanket-shah-33a3a2135_nvidia-cuda-hpc-activity-73
 
 
 1.SOlve Most asked company questions
+
+
+
+recursive backtracking subsets can be solved using binary bits manipulatuon and recursive backtracking
+
+
+# recently asked question
